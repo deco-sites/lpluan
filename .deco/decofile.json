@@ -1,4 +1,7 @@
 {
+  "Footer": {
+    "__resolveType": "site/sections/Footer.tsx"
+  },
   "Groovy Vibes": {
     "__resolveType": "site/sections/Theme/Theme.tsx",
     "buttonStyle": {
@@ -200,15 +203,7 @@
   "pages-Start-15553": {
     "name": "Home",
     "path": "/",
-    "sections": [
-      {
-        "__resolveType": "site/sections/ItWorks.tsx",
-        "name": "It Works!"
-      },
-      {
-        "__resolveType": "Footer"
-      }
-    ],
+    "sections": [],
     "__resolveType": "website/pages/Page.tsx"
   },
   "site": {
@@ -244,8 +239,5 @@
     "theme": {
       "__resolveType": "Neutral"
     }
-  },
-  "Footer": {
-    "__resolveType": "site/sections/Footer.tsx"
   }
 }
